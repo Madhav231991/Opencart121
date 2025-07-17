@@ -1,0 +1,54 @@
+2025-07-17 00:37:53 INFO  TC001_AccountRegistrationtest:15 - ***** starting TC001_AccountRegistrationtest****
+2025-07-17 00:37:53 INFO  TC001_AccountRegistrationtest:24 - ***** clicked on my account llink*****
+2025-07-17 00:37:55 INFO  TC001_AccountRegistrationtest:50 - ***** finished TC001_AccountRegistrationtest****
+2025-07-17 01:45:41 INFO  TC001_AccountRegistrationtest:15 - ***** starting TC001_AccountRegistrationtest****
+2025-07-17 01:45:41 INFO  TC001_AccountRegistrationtest:24 - ***** clicked on my account llink*****
+2025-07-17 01:45:44 INFO  TC001_AccountRegistrationtest:50 - ***** finished TC001_AccountRegistrationtest****
+2025-07-17 17:14:34 INFO  TC001_AccountRegistrationtest:15 - ***** starting TC001_AccountRegistrationtest****
+2025-07-17 17:14:34 INFO  TC001_AccountRegistrationtest:24 - ***** clicked on my account llink*****
+2025-07-17 17:14:36 INFO  TC001_AccountRegistrationtest:50 - ***** finished TC001_AccountRegistrationtest****
+2025-07-17 17:18:14 INFO  TC001_AccountRegistrationtest:15 - ***** starting TC001_AccountRegistrationtest****
+2025-07-17 17:18:15 INFO  TC001_AccountRegistrationtest:24 - ***** clicked on my account llink*****
+2025-07-17 17:18:16 INFO  TC001_AccountRegistrationtest:50 - ***** finished TC001_AccountRegistrationtest****
+2025-07-17 17:22:43 INFO  TC001_AccountRegistrationtest:15 - ***** starting TC001_AccountRegistrationtest****
+2025-07-17 17:22:43 INFO  TC001_AccountRegistrationtest:24 - ***** clicked on my account llink*****
+2025-07-17 17:22:45 INFO  TC001_AccountRegistrationtest:50 - ***** finished TC001_AccountRegistrationtest****
+2025-07-17 17:28:45 INFO  TC001_AccountRegistrationtest:15 - ***** starting TC001_AccountRegistrationtest****
+2025-07-17 17:28:46 INFO  TC001_AccountRegistrationtest:24 - ***** clicked on my account llink*****
+2025-07-17 17:28:47 INFO  TC001_AccountRegistrationtest:50 - ***** finished TC001_AccountRegistrationtest****
+2025-07-17 17:41:02 INFO  TC001_AccountRegistrationtest:15 - ***** starting TC001_AccountRegistrationtest****
+2025-07-17 17:41:02 INFO  TC001_AccountRegistrationtest:24 - ***** clicked on my account llink*****
+2025-07-17 17:41:04 INFO  TC001_AccountRegistrationtest:50 - ***** finished TC001_AccountRegistrationtest****
+2025-07-17 17:42:59 INFO  TC001_AccountRegistrationtest:15 - ***** starting TC001_AccountRegistrationtest****
+2025-07-17 17:43:00 INFO  TC001_AccountRegistrationtest:15 - ***** starting TC001_AccountRegistrationtest****
+2025-07-17 17:43:01 INFO  TC001_AccountRegistrationtest:24 - ***** clicked on my account llink*****
+2025-07-17 17:43:01 INFO  TC001_AccountRegistrationtest:24 - ***** clicked on my account llink*****
+2025-07-17 17:43:01 ERROR TC001_AccountRegistrationtest:44 - test failed
+2025-07-17 17:43:01 ERROR TC001_AccountRegistrationtest:44 - test failed
+2025-07-17 17:49:25 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 17:49:35 INFO  TC003_LoginDDT:71 - *****finished TC003_loginDDT*****
+2025-07-17 17:49:35 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 17:49:37 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 17:49:47 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 17:49:57 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 17:54:34 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 17:54:46 INFO  TC003_LoginDDT:71 - *****finished TC003_loginDDT*****
+2025-07-17 17:54:46 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 17:54:47 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 17:54:57 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 17:55:07 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 18:28:59 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 18:29:10 INFO  TC003_LoginDDT:71 - *****finished TC003_loginDDT*****
+2025-07-17 18:29:10 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 18:29:12 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 18:29:22 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 18:29:32 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 19:04:01 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 19:04:12 INFO  TC003_LoginDDT:71 - *****finished TC003_loginDDT*****
+2025-07-17 19:04:12 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 19:04:14 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 19:04:24 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 19:04:34 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 19:11:26 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
+2025-07-17 19:11:27 INFO  TC003_LoginDDT:71 - *****finished TC003_loginDDT*****
+2025-07-17 19:11:27 INFO  TC003_LoginDDT:17 - *****Starting TC003_loginDDT*****
